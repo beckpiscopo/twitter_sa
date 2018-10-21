@@ -1,5 +1,3 @@
-import tweepy
-
 from tweepy import Cursor
 from twitter_client import get_twitter_client
 
